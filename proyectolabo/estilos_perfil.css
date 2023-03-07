@@ -1,0 +1,305 @@
+body{
+    box-sizing: border-box;
+    background-color:#7FFFD4;
+}
+
+.form{
+    background-color: white;
+    padding: 10px;
+}
+h1{
+    margin-left: 10px;
+}
+.container{
+    padding: 10px;
+    width: 100%; 
+}
+#nombre ,#apellido,#mail{
+    border: none;
+}
+/*para agrandar los iconos se usa 
+.container-input{
+    font-size: 20px;
+    color: red;
+    y para q este separada del margen se usa el padding: 10px
+}*/
+
+.container-input{
+    border-bottom: solid 1px silver;
+    margin-bottom: 20px;
+    padding: 10px;
+    
+}
+para agrandar el texto del formulario usamos
+
+input[type="text"]{
+    font-size:16px;
+    border: none;
+    margin-left: 10px;
+    width: 100%;
+    
+}
+input[type="tel"]{
+    font-size:16px;
+    border: none;
+    margin-left: 10px;
+    width: 100%;
+}
+input[type="password"]{
+    font-size:16px;
+    border: none;
+    margin-left: 10px;
+    width: 100%;
+}
+.button{
+    margin-top: 30px;
+}
+input[type="submit"]{
+width: 100%;
+padding: 7px;
+font-size: 15px;
+color: white;
+background-color: rgb(102, 205, 170);
+border:none;
+border-radius: 5px;
+cursor: pointer;
+}
+input[type="submit"]:hover{
+color: #e4eeeb;
+background-color: rgb(102, 205, 170);
+
+font-weight: 700;
+}
+p{
+font-size: 16px;
+font-family: sans-serif;
+text-align: center;
+}
+.link{
+    color: blue;
+    text-decoration: none;
+}
+.link:hover{
+    color: red;
+    text-decoration: none;
+    font-weight: 700;
+}
+.login-items{
+    margin-top: 10px;
+
+}
+.login-items button{
+    width: 35%;
+    margin: 5px 0px;
+    padding: 10px;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, .2);
+    cursor: pointer;
+    position: relative;
+    border-radius: 5px;
+}
+.login-items .face{
+background-color: #3b5999;
+border:none;
+color: white;
+}
+.login-items .tw{
+background-color: #55acef;
+border: none;
+color: white;
+}
+.login-items .Gl{
+    background-color: #CB3234;
+    border: none;
+    color: white;
+    }
+
+@media screen and (min-width: 767px){
+    .form{
+        margin: auto;
+        width:900px;
+        margin-top: 70px;
+        padding:10px;
+        border-radius: 7px;
+    }
+    .container-input{
+    padding:10px;
+    margin-right: 20px;  
+    }
+    input[type="text"]{
+    width: 90%;
+    font-size: 16px;
+    }
+    input[type="tel"]{
+        width: 90%;
+        font-size: 16px;
+    }
+    input[type="password"]{
+        width: 90%;
+        font-size: 16px;
+    }
+    input[type="submit"]{
+        width: 98%;
+        font-size: 18px;
+    }
+    p{
+        padding: 0px 10px;
+    }
+    @media screen and (min-width: 767px){
+    .div-mayor{
+        margin: auto;
+        width:auto;
+        padding:10px;
+       
+    }
+    .porcentaje{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .widget-valor{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .widget-div{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .porcentaje-nombre{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .imagenesdiv{
+        margin: auto;
+        width: auto;
+        padding: 1px;
+    }
+    .noventaycuatro{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .valor-produc{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    } 
+    .div-mayor{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .imagenver{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .imagenver2{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .imagenver3{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .imagen3{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .imagen{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .imagen2{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    
+}
+@media screen and (min-width: 11007px){
+    .div-mayor{
+        margin: auto;
+        width:auto;
+        padding:10px;
+       
+    }
+    .porcentaje{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .widget-valor{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .widget-div{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .porcentaje-nombre{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .imagenesdiv{
+        margin: auto;
+        width: auto;
+        padding: 1px;
+    }
+    .noventaycuatro{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .valor-produc{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    } 
+    .div-mayor{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .imagenver{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .imagenver2{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .imagenver3{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .imagen3{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .imagen{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .imagen2{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    
+}
+}

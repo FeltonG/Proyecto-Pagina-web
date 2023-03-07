@@ -1,0 +1,102 @@
+
+.widget-div{
+    background-color:rgb(102, 205, 170);
+    margin: 2px;
+    border-color: rgb(102, 205, 170);
+    border-width: 2px;
+    border-style:solid;
+    width: 300px;
+    height: 150px;
+}
+.porcentaje-valor{
+    background-color:rgb(102, 205, 170);
+    margin: 2;
+}   
+.porcentaje-nombre{
+    margin: 2px;
+}
+.porcentaje{
+    display: flex;
+    justify-content: space-between;
+    background-color:rgb(163, 158, 158);;
+    text-align: center 
+}
+.porcentaje{
+    border-color:#7FFFD4;
+    border-width: 1px;
+    border-style: solid;
+    background-color:#7FFFD4
+}
+.widget-valor{
+    border-color: rgb(102, 205, 170);
+    border-width: 2px;
+    border-style: solid;
+    width: 300px;
+    height: 150px;
+    background-color:rgb(102, 205, 170)
+    
+}
+
+.filados{
+    display: flex;
+    justify-content: space-between;
+    background-color:rgb(102, 205, 170);
+    text-align: center
+ }
+
+.filados{
+    border-color: #7FFFD4;
+    border-width: 1px;
+    border-style: solid;
+    background-color:#7FFFD4
+}
+.imagen{
+    width: 300px;
+    height: 200px;
+    
+}
+/* fondo de las imagenes */
+.fondo{
+    background-color:#7FFFD4;
+}
+/* imagen ver  */
+.imagen2{
+    width: 400px;
+    height: 200px;
+    
+
+}
+/* color del fondo  */
+.titulo{
+    display: flex;
+    justify-content: center;
+    background-color: #7FFFD4;
+    
+}
+.noventaycuatro{
+    background-color:rgb(102, 205, 170);
+    margin: 2;
+}
+.imagenesdiv{
+    display: flex;
+    justify-content:space-between;
+    background-color: #7FFFD4
+}
+.div-mayor{
+    background-color: #7FFFD4;
+    
+    
+}
+.botonperfil{
+    
+    float: right;
+}
+
+.fotoboton{
+    width: 40px;
+}
+.botonperfil{
+    padding: 0; 
+    border: none; 
+    background: none;
+}

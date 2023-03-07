@@ -1,0 +1,279 @@
+
+.botonmover{
+    padding: 0; 
+    border: none; 
+    background: none;
+    width: 30px;
+    padding-left: 10px;
+    
+}
+.botonmover2{
+    padding: 0; 
+    border: none; 
+    background: none;
+    width: 50px;
+    padding-left: 20px;
+}
+
+.botonmover3{
+    padding: 0; 
+    border: none; 
+    background: none;
+    width: 50px;
+    padding-left: 20px;
+
+}
+.botonmover4{
+    padding: 0; 
+    border: none; 
+    background: none;
+    width: 40px;
+    padding-left: 20px;
+
+}
+.botonmover5{
+    padding: 0; 
+    border: none; 
+    background: none;
+    width: 50px;
+    padding-left: 20px;
+
+}
+.botonmover6{
+    padding: 0; 
+    border: none; 
+    background: none;
+    width: 40px;
+    padding-left: 20px;
+}
+.botonmover7{
+    padding: 0; 
+    border: none; 
+    background: none;
+    width: 30px;
+    padding-left: 20px;
+}
+.botonmover8{
+    padding: 0; 
+    border: none; 
+    background: none;
+    width: 30px;
+    padding-left: 20px;
+}
+.colortitulo{
+    color: white;
+    font-family: "Gill Sans Extrabold", sans-serif;
+}
+.porcentaje-nombre{
+    color: white;
+    font-family: "Gill Sans Extrabold", sans-serif;
+}
+.colortitulo{
+    background-color:rgb(102, 205, 170) ;
+}
+
+.valor-produc{
+    color: white;
+    font-family: "Gill Sans Extrabold", sans-serif;
+    font-size: 30px;
+
+}
+.porcentaje-valor{
+    color: white;
+    font-family: "Gill Sans Extrabold", sans-serif;
+   
+}
+.porcentaje-titulo{
+    color: white;
+    font-family: "Gill Sans Extrabold", sans-serif;
+}
+.noventaycuatro{
+    color: white;
+    font-family: "Gill Sans Extrabold", sans-serif;
+    font-size: 50px;
+}
+.imagenver{
+    text-align: center;
+    background-color: rgb(102, 205, 170);
+    color: white;
+    font-family: "Gill Sans Extrabold", sans-serif;
+    font-size: 20px;
+    
+}
+.imagenver2{
+    text-align: center;
+    background-color: rgb(102, 205, 170);
+    color: white;
+    font-family: "Gill Sans Extrabold", sans-serif;
+    font-size: 20px;
+    
+}
+.imagenver3{
+    text-align: center;
+    background-color: rgb(102, 205, 170);
+    color: white;
+    font-family: "Gill Sans Extrabold", sans-serif;
+    font-size: 20px;
+    
+}
+.conteneiner{
+    background-color: rgb(206, 122, 20);
+}
+@media screen and (min-width: 767px){
+    .div-mayor{
+        margin: auto;
+        width:auto;
+        padding:10px;
+       
+    }
+    .porcentaje{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .widget-valor{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .widget-div{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .porcentaje-nombre{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .imagenesdiv{
+        margin: auto;
+        width: auto;
+        padding: 1px;
+    }
+    .noventaycuatro{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .valor-produc{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    } 
+    .div-mayor{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .imagenver{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .imagenver2{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .imagenver3{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .imagen3{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .imagen{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .imagen2{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    
+}
+@media screen and (min-width: 1100px){
+    .div-mayor{
+        margin: auto;
+        width:auto;
+        padding:10px;
+       
+    }
+    .porcentaje{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .widget-valor{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .widget-div{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .porcentaje-nombre{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .imagenesdiv{
+        margin: auto;
+        width: auto;
+        padding: 1px;
+    }
+    .noventaycuatro{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .valor-produc{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    } 
+    .div-mayor{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .imagenver{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .imagenver2{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .imagenver3{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .imagen3{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .imagen{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    .imagen2{
+        margin: auto;
+        width:auto;
+        padding: 1px;
+    }
+    
+}
